@@ -18,7 +18,7 @@
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67](https://user-images.githubusercontent.com/78977308/146660069-829c2c02-6e3f-4af4-87db-21afea039530.png)
 
 ## My github stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Nizamuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nizamuddin4493&show_icons=true)
 
 ## Connect with me:
 
