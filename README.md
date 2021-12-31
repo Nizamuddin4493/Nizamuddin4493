@@ -1,6 +1,5 @@
 ## Hi there,👋 I'm Nizamuddin Ahmadzai 
 
-### About me
 - 🔭 I’m currently studing at [Microverse](https://http://www.microverse.org)
 - 🌱 I’m currently learning full-stack web development, and Data Structures and Algorithms. 
 - 👯 I’m looking to collaborate on OpenSource Projects
