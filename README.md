@@ -1,9 +1,10 @@
 ## Hi there,👋 I'm Nizamuddin Ahmadzai 
 
-- 🔭 I’m currently studying at [Microverse](https://http://www.microverse.org)
-- 🌱 I’m currently learning full-stack web development, and Data Structures and Algorithms. 
-- 👯 I’m looking to collaborate on OpenSource Projects
-- ⚡ I love to travel and see different cultures.
+- 🔭 I’m from Afghanistan and currently studying at [Microverse](https://http://www.microverse.org)
+- 🌱 I’m currently learning full-stack web development, and data structures and algorithms. 
+- 👯 I’m looking to collaborate on openSource projects.
+- 🕸️ Please visit my [Portfolio](https://nizamuddin4493.github.io/My-Portfolio/) website. 
+- ⚡  I love to travel and see different cultures.
 - 📫 How to reach me: nizamuddin4493@gmail.com
 
 ## Languages and tools
@@ -30,7 +31,7 @@
 ## Connect with me:
 - GitHub: [@Nizamuddin4493](https://github.com/Nizamuddin4493)
 - Twitter: [@Nizamuddin4493](https://twitter.com/Nizamuddin4493)
-- LinkedIn: [Nizauddin4493](https://www.linkedin.com/in/nizauddin4493/)
+- LinkedIn: [Nizauddin4493](https://www.linkedin.com/in/nizamuddin4493/)
 - Email: nizamuddin4493@gmail.com
 
 #### Visitor Count
