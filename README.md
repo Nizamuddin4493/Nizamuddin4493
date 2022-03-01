@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on openSource projects.
 - 🕸️ Please visit my [Portfolio](https://nizamuddin4493.github.io/My-Portfolio/) website. 
 - ⚡  I love to travel and see different cultures.
-- 📫 How to reach me: nizamuddin4493@gmail.com
+- 📫 How to reach me: [nizamuddin4493@gmail.com](https://mail.google.com/)
 
 ## Languages and tools
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67](https://user-images.githubusercontent.com/78977308/146660063-a1522aa6-d8af-4587-967f-a53e59f3c3dd.png)
@@ -29,10 +29,12 @@
 
 
 ## Connect with me:
+- Visit my: [Portfolio](https://nizamuddin4493.github.io/My-Portfolio/)
 - GitHub: [@Nizamuddin4493](https://github.com/Nizamuddin4493)
 - Twitter: [@Nizamuddin4493](https://twitter.com/Nizamuddin4493)
 - LinkedIn: [Nizauddin4493](https://www.linkedin.com/in/nizamuddin4493/)
-- Email: nizamuddin4493@gmail.com
+- Email:  [nizamuddin4493@gmail.com](https://mail.google.com/)
+- Location: Kabul, Afghanistan.
 
 #### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/nizamuddin4493/count.svg)
