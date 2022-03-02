@@ -3,8 +3,7 @@
 - 🔭 I’m from Afghanistan and currently studying at [Microverse](https://http://www.microverse.org)
 - 🌱 I’m currently learning full-stack web development, and data structures and algorithms. 
 - 👯 I’m looking to collaborate on openSource projects.
-- 🕸️ Please visit my [Portfolio](https://nizamuddin4493.github.io/My-Portfolio/) website. 
-- ⚡  I love to travel and see different cultures.
+-  ⚡  I love to travel and see different cultures.
 - 📫 How to reach me: [nizamuddin4493@gmail.com](https://mail.google.com/)
 
 ## Languages and tools
@@ -29,12 +28,10 @@
 
 
 ## Connect with me:
-- Visit my: [Portfolio](https://nizamuddin4493.github.io/My-Portfolio/)
 - GitHub: [@Nizamuddin4493](https://github.com/Nizamuddin4493)
 - Twitter: [@Nizamuddin4493](https://twitter.com/Nizamuddin4493)
 - LinkedIn: [Nizauddin4493](https://www.linkedin.com/in/nizamuddin4493/)
-- Email:  [nizamuddin4493@gmail.com](https://mail.google.com/)
-- Location: Kabul, Afghanistan.
+
 
 #### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/nizamuddin4493/count.svg)
